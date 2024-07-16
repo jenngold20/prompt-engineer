@@ -1,7 +1,7 @@
 import openai #llamado a la libreria
 
 #Define tu clave de API de OpenAI
-api_key = "sk-proj-LwmStQzIow0Tlg0odQPBT3BlbkFJa6whUhduGz4rMP1GOH68"
+api_key = ""
 
 #Configura la clave de API
 openai.api_key = api_key #llamado a la api_key

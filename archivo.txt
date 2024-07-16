@@ -1,53 +1,43 @@
-```json
-{
-  "recetas_argentinas_economicas_faciles": [
-    {
-      "nombre": "Milanesas de pollo",
-      "ingredientes": [
-        "1 kg de pechugas de pollo",
-        "3 huevos",
-        "Pan rallado",
-        "Sal",
-        "Pimienta",
-        "Aceite para freír"
-      ],
-      "instrucciones": [
-        "Cortar las pechugas de pollo en churrascos finos.",
-        "Sazonar los churrascos con sal y pimienta.",
-        "Batir los huevos en un plato hondo.",
-        "Pasar los churrascos por el huevo batido y luego por el pan rallado.",
-        "Freír las milanesas en abundante aceite caliente hasta que estén doradas por ambos lados."
-      ]
-    },
-    {
-      "nombre": "Pastel de papas",
-      "ingredientes": [
-        "1 kg de papas",
-        "1 cebolla",
-        "1 morrón rojo",
-        "1 kg de carne picada",
-        "1/2 taza de arvejas",
-        "1/2 taza de zanahorias picadas",
-        "1/2 taza de queso rallado",
-        "Sal",
-        "Pimienta",
-        "Aceite para cocinar"
-      ],
-      "instrucciones": [
-        "Pelar y cortar las papas en rodajas finas.",
-        "Hervir las papas en agua con sal hasta que estén tiernas.",
-        "Mientras tanto, picar la cebolla y el morrón en cubos.",
-        "Sofreír la cebolla y el morrón en una sartén con aceite hasta que estén transparentes.",
-        "Agregar la carne picada a la sartén y cocinar hasta que esté dorada.",
-        "Escurrir las papas y pisarlas hasta hacer un puré.",
-        "Agregar las arvejas, las zanahorias y el queso rallado al puré de papas.",
-        "Salpimentar a gusto.",
-        "Colocar una capa de puré de papas en una fuente para horno.",
-        "Distribuir la carne picada por encima.",
-        "Cubrir con el resto del puré de papas.",
-        "Hornear a 180°C durante 30 minutos o hasta que la superficie esté dorada."
-      ]
-    }
-  ]
-}
-```
+**Como analista de estados de ánimo, he detectado los siguientes indicadores de depresión:**
+
+* Sentimientos persistentes de tristeza, desesperanza y vacío
+* Pérdida de interés en actividades que antes te gustaban
+* Alteraciones del sueño (insomnio o hipersomnia)
+* Cambios en el apetito (aumento o disminución del peso)
+* Fatiga o pérdida de energía
+* Dificultad para concentrarse o tomar decisiones
+* Sentimientos de culpa o inutilidad
+* Pérdida del deseo sexual
+* Pensamientos recurrentes de muerte o suicidio
+
+**Consejos para sobrellevar la depresión:**
+
+**Calma:**
+
+* Practicar técnicas de relajación, como la respiración profunda o la meditación.
+* Rodéate de personas que te apoyan y te hacen sentir bien.
+* Escucha música tranquila o sonidos de la naturaleza.
+* Realiza actividades que te calmen, como leer o tomar un baño caliente.
+
+**Ánimo:**
+
+* Establece metas pequeñas y alcanzables.
+* Divide las tareas grandes en pasos más pequeños.
+* Reconoce y celebra tus logros.
+* Rodéate de personas positivas y que te inspiren.
+
+**Fuerza:**
+
+* Recuerda tus fortalezas y logros pasados.
+* Establece mecanismos de afrontamiento saludables, como el ejercicio o la terapia.
+* Aprende a decir no a las cosas que te abruman.
+* Pide ayuda cuando la necesites.
+
+**Consuelo:**
+
+* Entiende que la depresión es una enfermedad tratable.
+* Busca apoyo profesional de un terapeuta o psiquiatra.
+* Únete a grupos de apoyo para conectar con otras personas que están pasando por una situación similar.
+* Cuida tu bienestar físico comiendo de forma saludable y durmiendo lo suficiente.
+
+Recuerda que no estás solo y que hay esperanza. Con apoyo y tratamiento, puedes superar la depresión y recuperar tu bienestar.
