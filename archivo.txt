@@ -1,0 +1,53 @@
+```json
+{
+  "recetas_argentinas_economicas_faciles": [
+    {
+      "nombre": "Milanesas de pollo",
+      "ingredientes": [
+        "1 kg de pechugas de pollo",
+        "3 huevos",
+        "Pan rallado",
+        "Sal",
+        "Pimienta",
+        "Aceite para freír"
+      ],
+      "instrucciones": [
+        "Cortar las pechugas de pollo en churrascos finos.",
+        "Sazonar los churrascos con sal y pimienta.",
+        "Batir los huevos en un plato hondo.",
+        "Pasar los churrascos por el huevo batido y luego por el pan rallado.",
+        "Freír las milanesas en abundante aceite caliente hasta que estén doradas por ambos lados."
+      ]
+    },
+    {
+      "nombre": "Pastel de papas",
+      "ingredientes": [
+        "1 kg de papas",
+        "1 cebolla",
+        "1 morrón rojo",
+        "1 kg de carne picada",
+        "1/2 taza de arvejas",
+        "1/2 taza de zanahorias picadas",
+        "1/2 taza de queso rallado",
+        "Sal",
+        "Pimienta",
+        "Aceite para cocinar"
+      ],
+      "instrucciones": [
+        "Pelar y cortar las papas en rodajas finas.",
+        "Hervir las papas en agua con sal hasta que estén tiernas.",
+        "Mientras tanto, picar la cebolla y el morrón en cubos.",
+        "Sofreír la cebolla y el morrón en una sartén con aceite hasta que estén transparentes.",
+        "Agregar la carne picada a la sartén y cocinar hasta que esté dorada.",
+        "Escurrir las papas y pisarlas hasta hacer un puré.",
+        "Agregar las arvejas, las zanahorias y el queso rallado al puré de papas.",
+        "Salpimentar a gusto.",
+        "Colocar una capa de puré de papas en una fuente para horno.",
+        "Distribuir la carne picada por encima.",
+        "Cubrir con el resto del puré de papas.",
+        "Hornear a 180°C durante 30 minutos o hasta que la superficie esté dorada."
+      ]
+    }
+  ]
+}
+```
